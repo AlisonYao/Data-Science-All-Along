@@ -10,9 +10,9 @@ Link to the book: https://jakevdp.github.io/PythonDataScienceHandbook/
 
 Link to my notes: https://www.notion.so/alisonyao/Python-Data-Science-Handbook-da7582196c2a482eb938953ea0004050
 
-<!-- ### 2. Practical Statistics for Data Scientists (2017)
+<!-- ### 2. Introduction to Machine Learning with Python: A Guide for Data Scientists
 
-Link to the book: https://github.com/chris23964157/Test_jekins/blob/main/Practical%20Statistics%20for%20Data%20Scientist.2017.pdf -->
+Link to the book: https://files.isec.pt/DOCUMENTOS/SERVICOS/BIBLIO/INFORMA%C3%87%C3%95ES%20ADICIONAIS/Introction-to-machine_Muller.pdf -->
 
 <!-- ### 3. The Data Science Handbook (2017)
 
